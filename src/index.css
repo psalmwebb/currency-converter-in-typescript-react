@@ -1,0 +1,29 @@
+/* body{
+    background-color:navy;
+    color:white;
+} */
+
+.app{
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    border:1px solid black;
+    width:60%;
+    min-height:60vh;
+    margin:0 auto;
+}
+
+.app input{
+    width:200px;
+    padding:10px 0;
+    text-indent:5px;
+}
+
+.app select{
+    padding:10px;
+}
+
+.equal-to{
+    font-weight:bold;
+    font-size:50px;
+}
